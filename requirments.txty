@@ -1,0 +1,8 @@
+Flask
+flask-sqlalchemy
+python-dotenv
+Flask-JWT-Extended
+Werkzeug
+flask_marshmallow
+marshmallow
+marshmallow-sqlalchemy
